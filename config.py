@@ -1,0 +1,2 @@
+#config
+TOKEN = "6333189100:AAEEsML_0LPCMzdKGkm-xGql3uxmYHBQ__E"
